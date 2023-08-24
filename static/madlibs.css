@@ -10,6 +10,10 @@ body {
     background-color: #78C2AD;
 }
 
+p {
+    margin: 3%;
+}
+
 input {
     font-size: 100% !important;
 }
